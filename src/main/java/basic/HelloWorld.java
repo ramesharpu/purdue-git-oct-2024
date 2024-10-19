@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 	}
 
-	// from b1 branch |  stash-demo-dev2
+	// from b1 branch | stash demo from dev1 + stash-demo-dev2
 	public void m1() {
 		System.out.println("from m1");
 	}
