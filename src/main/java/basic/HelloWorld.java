@@ -1,7 +1,8 @@
 package basic;
 
 public class HelloWorld {
-	//from dev-2 (conflict mgt-demo)
+
+	//from dev-1 (conflict mgt) + from dev-2 (conflict mgt-demo)
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 	}
