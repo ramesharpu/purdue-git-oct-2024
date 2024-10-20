@@ -21,4 +21,11 @@ public class HelloWorld {
 	public void m3() {
 		System.out.println("from m2");
 	}
+	
+	//multiple commit demo
+	public void m4() {
+		int a = 5;
+		int b = 10;
+		int c = a + b;
+	}
 }
