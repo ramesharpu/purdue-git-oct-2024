@@ -27,5 +27,6 @@ public class HelloWorld {
 		int a = 5;
 		int b = 10;
 		int c = a + b;
+		System.out.println("sum of the two numbers = " + c);
 	}
 }
