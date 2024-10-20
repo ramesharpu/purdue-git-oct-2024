@@ -29,4 +29,13 @@ public class HelloWorld {
 		int c = a + b;
 		System.out.println("sum of the two numbers = " + c);
 	}
+	
+	//amend demo
+	public void m5() {
+		int a = 10;
+		int b = 6;
+		int c = a - b;
+		System.out.println("difference of two numbers = " + c);
+	}
+	
 }
